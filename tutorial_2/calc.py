@@ -1,0 +1,5 @@
+fn = input("Enter first number: ")
+sn = int(input("Enter second number: "))
+# print(type(fn))
+# print(type(sn))
+print(f"{int(fn)} + {sn} = {int(fn) + sn}")
