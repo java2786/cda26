@@ -1,0 +1,18 @@
+print all digits from 1 to 10
+table print -> 
+1 - 50 -> sum
+1 - 50 -> find even
+
+find if given number is prime
+1 - 50 -> find prime
+find factorial of a given number
+power of a number -> 2, 5 => 32 and 3,4 = 81
+
+num = 12345
+count digits
+find sum of all digits
+reverse the digits to form new number - 54321
+find if palindrome - 12321
+
+
+patterns
