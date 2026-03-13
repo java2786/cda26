@@ -9,10 +9,30 @@ find factorial of a given number
 power of a number -> 2, 5 => 32 and 3,4 = 81
 
 num = 12345
-count digits
-find sum of all digits
-reverse the digits to form new number - 54321
-find if palindrome - 12321
+- count digits
+- find sum of all digits
+- reverse the digits to form new number - 54321
+- find if palindrome - 12321
+
+
+Check if a number has exactly 3 digits.
+FizzBuzz Game – Leetcode Problem 412.
+Check if 3 sides form a right triangle using H² = B² + P².
+
+
+Section 5: Number Manipulation and Digit Problems
+- Check whether a number is a palindrome (e.g., 121, 1331).
+- Count how many even and odd digits are present in a number.
+- Calculate the sum of digits of a number until it becomes a single digit (digital root). - 4573 - 19 - 10 - 1
+- Check whether a number is Armstrong (e.g., 153 = 1³+5³+3³).
+- Print the sum of squares of digits of a number.
+- Print the sum of squares of numbers from 1 to N.
+- Input a number and count how many times each digit (0–9) appears.
+- Convert a decimal number to binary manually (no bin() function).
+- Convert a binary to decimal number manually.
+- Find the product of all digits in a number.
+- Input a number and print whether it is a perfect number (sum of factors equals the number).
+- Check if a number is a strong number (sum of factorials of digits = original number).
 
 
 patterns
