@@ -1,0 +1,6 @@
+find capitalize string -> first char capital and all other are small 
+
+
+# cap first 4 chars of name + year
+# XXXX XXXX XXXX 3456
+# XXXXXX 8765
