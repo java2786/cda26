@@ -1,0 +1,7 @@
+name|age|address
+ramesh|32|pune
+mukesh|29|bangalore
+dinesh|28|chandigarh
+gukesh|23|chennai
+kamlesh|25|bangal
+rajesh|24|punjab
